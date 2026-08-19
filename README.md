@@ -2,12 +2,6 @@
 
 # 🎉 PARTY
 
-### Eventos, pessoas e experiências em um só lugar.
-
-!\[Status](https://img.shields.io/badge/status-em%20desenvolvimento-8A2BE2?style=for-the-badge)
-!\[Projeto](https://img.shields.io/badge/projeto-SENAI-005CA9?style=for-the-badge)
-!\[Ano](https://img.shields.io/badge/ano-2026-FF4D8D?style=for-the-badge)
-
 </div>
 
 ## 📖 Sobre o projeto
